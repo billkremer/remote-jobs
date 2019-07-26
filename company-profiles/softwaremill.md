@@ -12,6 +12,8 @@ At SoftwareMill we write custom software. Our focus is on delivering value to ou
 
 We all work from our homes, co-working offices or sometimes even from Bieszczady Mountains.
 
+Internally we are a Polish speaking company, so Polish language is required.
+
 ## Company technologies
 
 - Java
